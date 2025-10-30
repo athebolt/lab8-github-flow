@@ -4,6 +4,8 @@ from rich.console import Console
 
 console = Console()
 
+default_message = "You stand still, unsure what to do. The forest swallows you."
+
 def step(choice: str, events):
     random_event = random.choice(events)
 
