@@ -1,30 +1,30 @@
-You find a mysterious glowing sword stuck in a stone.
-You meet a talking squirrel who challenges you to a duel.
-A riddle-speaking owl blocks your path, demanding an answer.
-You discover a hidden underground tunnel beneath the tree roots.
-A ghostly figure offers to guide you—for a price.
-You stumble upon a campfire still burning, but no one is there.
-A moss-covered statue begins to whisper your name.
-The ground trembles as a sleeping dragon stirs nearby.
-You find a rusted key engraved with strange runes.
-A mysterious merchant appears, selling dreams in glass bottles.
-You hear music echoing through the forest, but you can’t tell from where.
-A bridge made of vines leads across a misty ravine.
-You fall into a trapdoor and land in an ancient library.
-A glowing crystal hovers in midair, pulsing with light.
-You meet a lost knight searching for their forgotten honor.
-A raven lands on your shoulder and whispers a secret.
-You find a map carved into the bark of a tree.
-The air grows cold as time seems to stop around you.
-A mysterious figure in a cloak asks you to make a choice: truth or power.
-You enter a circle of mushrooms, and the world around you shifts.
-You discover a tiny door hidden behind ivy.
-A river of silver water blocks your way—its current hums with energy.
-You are surrounded by fireflies that spell a word in the air.
-A stone tablet begins to glow as you touch it.
-You find an old journal describing a journey much like your own.
-You reach a tower covered in thorns, with a light at its top.
-A mysterious storm forms suddenly, and voices echo in the thunder.
-You meet a cat wearing a crown, claiming to be the forest’s ruler.
-You uncover a portal shimmering between two oak trees.
-A voice from nowhere says, “You’ve been here before, haven’t you?”
+[dim]You[/] [bold cyan]enter a circle of[/] [bold magenta]mushrooms[/][dim], and the world[/] [bold red]shifts[/][dim].[/]
+[dim]You[/] [bold cyan]find a[/] [bold yellow]mysterious glowing sword[/][dim] stuck in a stone.[/]
+[dim]You[/] [bold cyan]meet a[/] [bold magenta]talking squirrel[/][dim] who challenges you to a duel.[/]
+[dim]A[/] [bold red]riddle-speaking owl[/] [bold cyan]blocks[/][dim] your path, demanding an answer.[/]
+[dim]You[/] [bold cyan]discover a[/] [bold yellow]hidden underground tunnel[/][dim] beneath the tree roots.[/]
+[dim]A[/] [bold red]ghostly figure[/] [bold cyan]offers[/][dim] to guide you—for a price.[/]
+[dim]You[/] [bold cyan]stumble upon a[/] [bold yellow]campfire[/][dim] still burning, but no one is there.[/]
+[dim]A[/] [bold red]moss-covered statue[/] [bold cyan]whispers[/][dim] your name.[/]
+[dim]The ground[/] [bold red]trembles[/][dim] as a sleeping[/] [bold red]dragon[/][dim] stirs nearby.[/]
+[dim]You[/] [bold cyan]find a[/] [bold yellow]rusted key[/][dim] engraved with strange runes.[/]
+[dim]A[/] [bold magenta]mysterious merchant[/] [bold cyan]appears[/][dim], selling dreams in glass bottles.[/]
+[dim]You[/] [bold cyan]hear[/] [bold magenta]music[/][dim] echoing through the forest, but you can’t tell from where.[/]
+[dim]A bridge made of[/] [bold green]vines[/][dim] leads across a misty ravine.[/]
+[dim]You[/] [bold red]fall into a trapdoor[/][dim] and land in an ancient library.[/]
+[dim]A glowing[/] [bold magenta]crystal[/] [bold cyan]hovers[/][dim] in midair, pulsing with light.[/]
+[dim]You[/] [bold green]meet a lost knight[/][dim] searching for their forgotten honor.[/]
+[dim]A[/] [bold magenta]raven[/] [bold cyan]whispers[/][dim] a secret on your shoulder.[/]
+[dim]You[/] [bold cyan]find a[/] [bold yellow]map[/][dim] carved into the bark of a tree.[/]
+[dim]The air[/] [bold magenta]grows cold[/][dim] as[/] [bold cyan]time[/][dim] seems to stop around you.[/]
+[dim]A mysterious figure[/] [bold cyan]asks you to make a choice[/][dim]: truth or power.[/]
+[dim]You[/] [bold cyan]discover a tiny[/] [bold yellow]door[/][dim] hidden behind ivy.[/]
+[dim]A[/] [bold red]river[/] [bold cyan]blocks your way[/][dim]—its current hums with energy.[/]
+[dim]You[/] [bold green]are surrounded by[/] [bold yellow]fireflies[/][dim] that spell a word in the air.[/]
+[dim]A stone[/] [bold magenta]tablet[/] [bold cyan]glows[/][dim] as you touch it.[/]
+[dim]You[/] [bold cyan]find an old[/] [bold magenta]journal[/][dim] describing a journey much like your own.[/]
+[dim]You[/] [bold cyan]reach a[/] [bold magenta]tower[/][dim] covered in[/] [bold red]thorns[/][dim], with a light at its top.[/]
+[dim]A mysterious[/] [bold red]storm[/] [bold cyan]forms suddenly[/][dim], and voices echo in the thunder.[/]
+[dim]You[/] [bold magenta]meet a cat wearing a[/] [bold yellow]crown[/][dim], claiming to be the forest’s ruler.[/]
+[dim]You[/] [bold cyan]uncover a[/] [bold yellow]portal[/][dim] shimmering between two oak trees.[/]
+[dim]A voice[/] [bold cyan]says:[/][dim] “[italic]You’ve been here before, haven’t you?[/][dim]”.[/]
